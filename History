@@ -228,3 +228,121 @@ cd
 cd Repos
 cd Command_line_master
 cp ~/.history .
+git add -u
+gc "command find"
+git commit -m
+git push
+clear
+clc
+ls
+ls -l
+ls -s
+ls -S
+ls -lr
+git config --global user.name 'dan1dr'
+git config --global user.email 'dannieyo@gmail.com{]['
+git config --global user.email 'dannieyo@gmail.com'
+clear
+ls
+cd master
+ls
+ls -l
+cd 
+cd Repos
+ls
+cd master/ls
+cd master
+ls
+git clone https://github.com/dan1dr/master.git
+ls
+cd master
+ls
+cat README.md
+git status
+touch Modelo1
+git add Modelo1
+git status
+git commint -m
+git commit -m
+git commit -m 'Modelo?\
+git commit -m 'modelo'\
+'
+cat Modelo1
+cat README.md
+ls
+cat Modelo1
+git diff
+git
+git status
+git push
+git diff
+git status
+ls
+ d
+which python
+sudo which python
+cat .gitconfig
+ls
+gedit .config
+cd Repos
+git clone https://github.com/dan1dr/Local_init.git
+pwd
+ls
+cd master_start
+git status
+cd -
+cd master_start
+ll
+rm -r first_file.txt
+ll
+git status
+touch first_file.txt
+ll
+rm -r second_file
+touch second_file
+ll
+gedit first_file.txt
+git add first_file.txt
+git status
+#test
+git add second_file
+ll
+git status
+git add -u
+git status
+git commit
+git remote -v
+git status
+git log
+git push
+git clone https://github.com/dan1dr/Local_init.git~
+git clone https://github.com/dan1dr/Local_init.git
+git status
+git config
+cat .gitconfig
+ls
+cd Repos
+cd Local_init
+ll
+cat first_file.txt
+geddit first_file.txt
+gedit first_file.txt
+git status
+git commit -m 'another commit'
+git push
+git status
+git add first_file.txt
+git commit -m 'another commit'
+git push
+git status
+git branch
+git branch -M master
+cd
+ll
+cat .history
+cd Repos
+git clone https://github.com/dan1dr/Command_line_master.git
+ll
+cd Command_line_master
+git clone https://github.com/dan1dr/Command_line_master.git
+cp ~/.history History
